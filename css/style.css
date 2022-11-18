@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(204, 204, 204);
+}
+
+header {
+    background-color: white;
+}
+
+nav {
+    background-color: #29b1dd;
+    padding: 8px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.my-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    box-shadow: 4px;
+    border-radius: 8px;
+    flex-direction: column;
+    border-right: 1px solid rgb(79, 79, 79);
+    border-bottom: 1px solid rgb(79, 79, 79);
+    padding: 12px 0;
+}
